@@ -1,0 +1,109 @@
+@0    = ~[player]A zatem to ty jesteœ tym potê¿nym magiem, o którym tyle s³ysza³em. Zapewne nachodz¹ ciê ca³e zastêpy goœci, którzy twierdz¹, ¿e chc¹ zdobyæ wiedzê, a tak naprawdê szukaj¹ tylko magicznej potêgi?~~[player]A zatem to ty jesteœ tym potê¿nym magiem, o którym tyle s³ysza³am. Zapewne nachodz¹ ciê ca³e zastêpy goœci, którzy twierdz¹, ¿e chc¹ zdobyæ wiedzê, a tak naprawdê szukaj¹ tylko magicznej potêgi?~
+@1    = ~[player]Bycie tak rozchwytywanym magiem musi byæ mêcz¹ce. Stworzy³eœ te golemy z cia³a tylko po to, by zapewniæ sobie odrobinê spokoju? Ludzie zawsze bêd¹ próbowali zamieniæ s³owo z kimœ o twojej mocy.~
+@2    = ~[player]Wiem, ¿e nie szukasz towarzystwa, sam mi to zreszt¹ powiedzia³eœ, ale co, jeœli wyznam, ¿e nie jestem jednym z tych, którzy przychodz¹ tu jedynie ze wzglêdu na twoje niezwyk³e zdolnoœci?~~[player]Wiem, ¿e nie szukasz towarzystwa, sam mi to zreszt¹ powiedzia³eœ, ale co, jeœli wyznam, ¿e nie jestem jedn¹ z tych, którzy przychodz¹ tu jedynie ze wzglêdu na twoje niezwyk³e zdolnoœci?~
+@3    = ~[player]Tysi¹c sztuk z³ota to za ma³o za tê ksi¹¿kê. Oczekujê przynajmniej dwóch i pó³ tysi¹ca.~
+@4    = ~[player]Dobrze, ksi¹¿ka bêdzie twoja za tysi¹c sztuk z³ota.~
+@5    = ~[player]Nadal jesteœ zainteresowany ksi¹¿k¹? Mogê ci j¹ daæ, ale nie chcê za ni¹ ¿adnych magicznych przedmiotów ani z³ota. Chcê coœ innego.~
+@6    = ~[player]Wci¹¿ jestem gotów daæ ci tê ksi¹¿kê w prezencie.~~[player]Wci¹¿ jestem gotowa daæ ci tê ksi¹¿kê w prezencie.~
+@7    = ~[Thalantyr]Owszem, i zawsze  mogê mogê stworzyæ nastêpnego. Jeœli nie interesuje ciê handel, muszê prosiæ, byœ odszed³.~~[Thalantyr]Owszem, zawsze  mogê mogê stworzyæ nastêpnego. Jeœli nie interesuje ciê handel, muszê prosiæ, byœ odesz³a.~
+@8    = ~[Thalantyr]To zabawne, niektórzy zaczynaj¹ swoj¹ przemowê dok³adnie od tych samych s³ów.~
+@9    = ~[player]Trafiony. Przyznajê, ¿e twoja wiedza mi imponuje, ale czy to Ÿle, ¿e ktoœ m³ody ma nadziejê uczyæ siê od kogoœ takiego jak ty?~
+@10   = ~[player]Jasne, przyszed³em tu tylko po to, ¿eby ukraœæ ci moc. Przynios³em kurczaka Melicampa i walczy³em ze szkieletami o czaszkê tylko dlatego, ¿e myœla³em: „œwietnie, teraz bêdê móg³ zagarn¹æ nieco magii Thalantyra!”.~~[player]Jasne, przysz³am tu tylko po to, ¿eby ukraœæ ci moc. Przynios³am kurczaka Melicampa i walczy³am ze szkieletami o czaszkê tylko dlatego, ¿e myœla³am: „œwietnie, teraz bêdê mog³a zagarn¹æ nieco magii Thalantyra!”.~
+@11   = ~[player]Nie to by³o moj¹ intencj¹.~
+@12   = ~[player]A co, jeœli naprawdê chcê ciê lepiej poznaæ? Jako osobê, a nie tylko potê¿nego maga.~
+@13   = ~[player]Przepraszam za najœcie. Ju¿ sobie idê.~
+@14   = ~[player]Zachowaj te swoje fochy dla siebie, starcze, albo gorzko tego po¿a³ujesz.~
+@15   = ~[Thalantyr]Widzisz? To druga rzecz, któr¹ zwykle mówi¹. Chc¹ siê „uczyæ”, a potem koñczy siê na próbie kradzie¿y moich najpotê¿niejszych artefaktów.~
+@16   = ~[Melicamp]Mistrzu, *gdak* naprawdê wyci¹gn¹³em lekcjê z tej przygody. Przysiêgam!~
+
+
+
+
+
+
+
+
+
+
+
+
+@17   = ~[Thalantyr]I nie jestem pewien, co jest dla nich gorsze: moment, w którym ich na tym przy³apujê, czy ten, w którym mi siê to nie udaje i spotyka ich zas³u¿ona kara. G³upcy!~
+@18   = ~[player]To tylko ma³a pogawêdka. Chwila przyjacielskiej rozmowy, nic wiêcej.~
+@19   = ~[player]Chcê siê od ciebie uczyæ.~
+@20   = ~[player]Wygl¹da na to, ¿e w ¿aden sposób nie zdo³am ciê przekonaæ, ¿e nie mia³em z³ych zamiarów?~
+@21   = ~[Thalantyr]Hm, to jednak coœ nowego. Mo¿e tylko dlatego, ¿e Melicamp nie wpada³ w k³opoty doœæ czêsto, by zmuszaæ ludzi do przychodzenia tutaj z pomoc¹.~
+@22   = ~[Melicamp]Prosi³em wielu, mistrzu, ale <CHARNAME> by³ pierwszym, który (gdak) pomóg³.~
+@23   = ~[Thalantyr]Czego chcesz?~
+@24   = ~[player]Czy istnieje sposób, bym móg³ siê od ciebie uczyæ?~
+@25   = ~[Thalantyr]Odpowiem zatem, ¿e jestem odporny na tego rodzaju pochlebstwa. Nie interesuje mnie bli¿sze poznawanie ciebie, m³ody poszukiwaczu przygód.~
+@26   = ~[Thalantyr]Gdybym reflektowa³ na pogawêdki, sprzedawa³bym mikstury na jarmarku w Nashkel.~
+@27   = ~[Thalantyr]Rozejrzyj siê! Trzymam te golemy, by trzyma³y natrêtów na dystans. Mam ku temu powody.~
+@28   = ~[Thalantyr]Jestem starszym cz³owiekiem i nie wszystkie moje wspomnienia s¹ przyjemne. Widzia³em rzeczy, których – mam nadziejê – nie potrafisz sobie nawet wyobraziæ. Jestem nie tylko potê¿ny, ale i doœæ m¹dry, by wiedzieæ, do czego prowadzi nadu¿ywanie magii. Nie zamierzam nikogo kusiæ, by kroczy³ t¹ œcie¿k¹.~
+@29   = ~[Thalantyr]A pokusa staje siê silniejsza, gdy przebywa siê zbyt blisko niej. Tego równie¿ nauczy³o mnie ¿ycie.~
+@30   = ~[player]Zapewniam, ¿e nie to jest moim celem. Chcê zdobywaæ wiedzê.~
+@31   = ~[player]Czy naprawdê nie potrzebujesz ¿adnego towarzystwa? Innego ni¿ to, które tu widzê...~
+@32   = ~[Thalantyr]Jesteœ gorliwy, to pewne.~
+@33   = ~[Thalantyr]W ka¿dym razie mam ju¿ ucznia i nie ¿yczê sobie psuæ kolejnego m³odego umys³u.~
+@34   = ~[Thalantyr]W ka¿dym razie mia³em ucznia (wzdycha) i nie ¿yczê sobie psuæ kolejnego m³odego umys³u.~
+@35   = ~[Thalantyr]Istnieje jednak jeden sposób: zostaw mnie w spokoju, jeœli nie zamierzasz handlowaæ.~
+@36   = ~[player]Nie, nie zamierzam.~
+@37   = ~[player]Nie, raczej nie.~
+@38   = ~[Thalantyr]Zostaw mnie przy lekturze pierwszego tomu „Starodawnej Magyi”. Nie wiem, ile czasu zajmie mi jej skoñczenie przy tym t³umie ludzi, którzy ostatnio bez przerwy tu nachodz¹. Có¿, mo¿e to i lepiej, zwa¿ywszy, ¿e wci¹¿ nie mogê odnaleŸæ drugiego tomu, a to wielka szkoda.~
+@39   = ~[journal]Ksi¹¿ka dla Thalantyra
+Thalantyr, mag z Wysokiego ¯ywop³otu, wspomnia³ o ksi¹¿ce, której nie mo¿e znaleŸæ, a któr¹ chcia³by posiadaæ: drugim tomie „Starodawnej Magyi”. Skoro do tej pory jej nie zdoby³, przypuszczam, ¿e jest w posiadaniu innego potê¿nego maga, miejmy nadziejê, ¿e gdzieœ na Wybrze¿u Mieczy.~
+@40   = ~[player]Widzê na twojej pó³ce bardzo ciekaw¹ ksi¹¿kê – „Starodawn¹ Magyê”, tom II. Znam kogoœ, kto bardzo chcia³by j¹ odnaleŸæ.~
+@41   = ~[Ragefast]Co? Ach, ta...~
+@42   = ~[Ragefast]Mam szczer¹ nadziejê, ¿e masz wa¿ny powód, by mi przeszkadzaæ. Mówi³em ju¿, ¿e chcê, abyœ odszed³.~
+@43   = ~[Thalantyr]Czekaj, co ja tu widzê? Drugi tom „Starodawnej Magyi”?! Sk¹dkolwiek to masz, potrzebujê tej ksi¹¿ki. Sprzedasz mi j¹ za, powiedzmy, 1000 sztuk z³ota?~
+Czy mo¿emy przejœæ dalej? Czy chcesz, bym przyjrza³ siê jeszcze jakiemuœ konkretnemu fragmentowi pod k¹tem g³êbszej analizy?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@17   = ~[Thalantyr]I nie jestem pewien, co jest dla nich gorsze: moment, w którym ich ³apiê, czy ten, w którym mi siê to nie udaje i spotyka ich zas³u¿ona kara. G³upcy!~
+@18   = ~[player]To tylko ma³a pogawêdka. Chwila przyjacielskiej rozmowy, nic wiêcej.~
+@19   = ~[player]Chcê siê od ciebie uczyæ.~
+@20   = ~[player]Wygl¹da na to, ¿e w ¿aden sposób nie zdo³am ciê przekonaæ, ¿e nie mia³em z³ych zamiarów?~
+@21   = ~[Thalantyr]Hm, to jednak coœ nowego. Mo¿e tylko dlatego, ¿e Melicamp nie wpada³ w k³opoty doœæ czêsto, by zmuszaæ ludzi do przychodzenia tutaj z pomoc¹.~
+@22   = ~[Melicamp]Prosi³em wielu, mistrzu, ale <CHARNAME> by³ pierwszym, który (gdak) pomóg³.~
+@23   = ~[Thalantyr]Czego chcesz?~
+@24   = ~[player]Czy istnieje sposób, bym móg³ siê od ciebie uczyæ?~
+@25   = ~[Thalantyr]Odpowiem zatem, ¿e jestem odporny na tego rodzaju pochlebstwa. Nie interesuje mnie bli¿sze poznawanie ciebie, m³ody poszukiwaczu przygód.~
+@26   = ~[Thalantyr]Gdybym reflektowa³ na pogawêdki, sprzedawa³bym mikstury na jarmarku w Nashkel.~
+@27   = ~[Thalantyr]Rozejrzyj siê! Trzymam te golemy, by trzyma³y natrêtów na dystans. Mam ku temu powody.~
+@28   = ~[Thalantyr]Jestem starszym cz³owiekiem i nie wszystkie moje wspomnienia s¹ przyjemne. Widzia³em rzeczy, których – mam nadziejê – nie potrafisz sobie nawet wyobraziæ. Jestem nie tylko potê¿ny, ale i doœæ m¹dry, by wiedzieæ, do czego prowadzi nadu¿ywanie magii. Nie zamierzam nikogo kusiæ, by kroczy³ t¹ œcie¿k¹.~
+@29   = ~[Thalantyr]A pokusa staje siê silniejsza, gdy przebywa siê zbyt blisko niej. Tego równie¿ nauczy³o mnie ¿ycie.~
+@30   = ~[player]Zapewniam, ¿e nie to jest moim celem. Chcê zdobywaæ wiedzê.~
+@31   = ~[player]Czy naprawdê nie potrzebujesz ¿adnego towarzystwa? Innego ni¿ to, które tu widzê...~
+@32   = ~[Thalantyr]Jesteœ gorliwy, to pewne.~
+@33   = ~[Thalantyr]W ka¿dym razie mam ju¿ ucznia i nie ¿yczê sobie psuæ kolejnego m³odego umys³u.~
+@34   = ~[Thalantyr]W ka¿dym razie mia³em ucznia (wzdycha) i nie ¿yczê sobie psuæ kolejnego m³odego umys³u.~
+@35   = ~[Thalantyr]Istnieje jednak jeden sposób: zostaw mnie w spokoju, jeœli nie zamierzasz handlowaæ.~
+@36   = ~[player]Nie, nie zamierzam.~
+@37   = ~[player]Nie, raczej nie.~
+@38   = ~[Thalantyr]Zostaw mnie przy lekturze pierwszego tomu „Starodawnej Magyi”. Nie wiem, ile czasu zajmie mi jej skoñczenie przy tym wszystkim, co ostatnio tu siê dzieje. Có¿, mo¿e to i lepiej, zwa¿ywszy, ¿e wci¹¿ nie mogê odnaleŸæ drugiego tomu, a to wielka szkoda.~
+@39   = ~[journal]Ksi¹¿ka dla Thalantyra
+Thalantyr, mag z Wysokiego ¯ywop³otu, wspomnia³ o ksi¹¿ce, której nie mo¿e znaleŸæ, a któr¹ chcia³by posiadaæ: drugim tomie „Starodawnej Magyi”. Skoro do tej pory jej nie zdoby³, przypuszczam, ¿e jest w posiadaniu innego potê¿nego maga, miejmy nadziejê, ¿e gdzieœ na Wybrze¿u Mieczy.~
+@40   = ~[player]Widzê na twojej pó³ce bardzo ciekaw¹ ksi¹¿kê – „Starodawn¹ Magyê”, tom II. Znam kogoœ, kto bardzo chcia³by j¹ odnaleŸæ.~
+@41   = ~[Ragefast]Co? Ach, ta...~
+@42   = ~[Ragefast]Mam szczer¹ nadziejê, ¿e masz wa¿ny powód, by mi przeszkadzaæ. Mówi³em ju¿, ¿e chcê, abyœ odszed³.~
+@43   = ~[Thalantyr]Czekaj, co ja tu widzê? Drugi tom „Starodawnej Magyi”?! Sk¹dkolwiek to masz, potrzebujê tej ksi¹¿ki. Sprzedasz mi j¹ za, powiedzmy, 1000 sztuk z³ota?~
